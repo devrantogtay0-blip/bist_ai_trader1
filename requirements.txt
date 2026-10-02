@@ -1,4 +1,12 @@
-streamlitstreamlit
+streamlitstreamlitstreamlit
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+yfinance
+scipy
+requests
 pandas
 numpy
 scikit-learn
