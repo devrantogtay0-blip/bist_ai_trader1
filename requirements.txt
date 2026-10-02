@@ -1,4 +1,15 @@
-streamlit
+streamlitstreamlit
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+yfinance
+scipy
+feedparser
+streamlit-authenticator
+pyyaml
+requests
 pandas
 numpy
 scikit-learn
